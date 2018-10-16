@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:3:1-32:12
+INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:3:1-32:12
+INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:3:1-32:12
+INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:3:1-32:12
+MERGED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:2:1-30:12
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-location-9.8.0.aar/237929345fc07785826ae19b7050ef9e/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/c1a68fbc2192c82bf8f98206b064cd64/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/bd563b9f895914eded5c6d962f88fca3/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/b9ec8452e90ca587df872583b27576c3/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:24.0.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/ba106d14624f5e6130c2fb6d495e9650/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:3:1-32:12
+INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:3:1-32:12
+INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:3:1-32:12
+	package
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:4:5-33
+		INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:7:5-30
+		INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:6:5-29
+		INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:8:5-42
+INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:8:5-42
+INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:8:5-42
+MERGED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-location-9.8.0.aar/237929345fc07785826ae19b7050ef9e/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-location-9.8.0.aar/237929345fc07785826ae19b7050ef9e/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/c1a68fbc2192c82bf8f98206b064cd64/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/c1a68fbc2192c82bf8f98206b064cd64/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/bd563b9f895914eded5c6d962f88fca3/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/bd563b9f895914eded5c6d962f88fca3/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/b9ec8452e90ca587df872583b27576c3/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/b9ec8452e90ca587df872583b27576c3/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/ba106d14624f5e6130c2fb6d495e9650/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/ba106d14624f5e6130c2fb6d495e9650/AndroidManifest.xml:21:5-23:54
+INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:8:5-42
+INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:8:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/ba106d14624f5e6130c2fb6d495e9650/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:8:5-42
+		INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:8:15-40
+		INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:9:5-92
+	android:name
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:10:5-92
+	android:name
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:11:5-95
+MERGED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:13:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:12:5-98
+MERGED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:13:5-95
+MERGED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:14:5-95
+	android:name
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:15:5-97
+	android:name
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:16:5-83
+	android:name
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:17:5-84
+	android:name
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:17:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:18:5-96
+	android:name
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:18:22-77
+application
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:21:5-31:19
+MERGED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:18:5-28:19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-location-9.8.0.aar/237929345fc07785826ae19b7050ef9e/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-location-9.8.0.aar/237929345fc07785826ae19b7050ef9e/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/c1a68fbc2192c82bf8f98206b064cd64/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/c1a68fbc2192c82bf8f98206b064cd64/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/bd563b9f895914eded5c6d962f88fca3/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/bd563b9f895914eded5c6d962f88fca3/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/b9ec8452e90ca587df872583b27576c3/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/b9ec8452e90ca587df872583b27576c3/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/ba106d14624f5e6130c2fb6d495e9650/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/ba106d14624f5e6130c2fb6d495e9650/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:21:18-50
+	android:icon
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:21:51-87
+activity#com.harris.mobihoc.MainActivity
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:label
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:23:19-51
+	android:name
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:26:27-74
+service#com.harris.mobihoc.mobiHocService
+ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:29:9-30:19
+	android:label
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:29:67-97
+	android:name
+		ADDED from /home/nadir/Desktop/ScanApp/app/src/main/AndroidManifest.xml:29:18-66
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.9] /home/nadir/.gradle/caches/transforms-1/files-1.1/library-3.2.9.aar/2c7e055c061ad7d8649b16d875cacddf/AndroidManifest.xml:26:13-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/c1a68fbc2192c82bf8f98206b064cd64/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/c1a68fbc2192c82bf8f98206b064cd64/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/c1a68fbc2192c82bf8f98206b064cd64/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/c1a68fbc2192c82bf8f98206b064cd64/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/b9ec8452e90ca587df872583b27576c3/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/b9ec8452e90ca587df872583b27576c3/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/nadir/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/b9ec8452e90ca587df872583b27576c3/AndroidManifest.xml:20:20-65
