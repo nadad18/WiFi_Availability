@@ -1,6 +1,6 @@
 ### WiFi_Availability
 
-WiFi_Availability is an Android application that scans the available Wi-Fi networks. To make it easier to see the Wi-Fi AP attributes, two seperate files are output that writes the attributes of Wi-Fi access points into a local file. In addition, it download and uploaded an 8 MByte file to an internet server to calculate the upload and download speeds. 
+**WiFi_Availability** is an Android application that scans the available Wi-Fi networks. To make it easier to see the Wi-Fi AP attributes, two seperate files are output that writes the attributes of Wi-Fi access points into a local file. In addition, it download and uploaded an 8 MByte file to an internet server to calculate the upload and download speeds. 
 
 ### Scanning for WiFi Networks
 You can perform a WiFi Network scan like so:
