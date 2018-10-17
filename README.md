@@ -6,7 +6,7 @@
 ```java
     File folder = Environment.getExternalStoragePublicDirectory(DIRECTORY_DCIM);
     File Wi_Fi = new File(folder, "All_data.txt");
-    ```  
+ ```     
 
 ### Scanning for WiFi Networks
 You can perform a WiFi Network scan like so:
