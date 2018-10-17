@@ -47,20 +47,10 @@ public class MainActivity extends Activity{
                         Toast.makeText(MainActivity.this,"Scanning Started.", Toast.LENGTH_SHORT).show();
                         break;
 
-                    case R.id.stop:
-                        //stops service for the given Intent
-                        benchmarkService.isRunning = false;
-                        stopService(intent);
-                        benchmarkService.stop();
-                        benchmarkService.onDestroy();
-                        Log.e(TAG, "mobihoc: " + "stopService");
-                        Toast.makeText(MainActivity.this,"Scanning Stopped.", Toast.LENGTH_SHORT).show();
-                        break;
                 }
             }
         };
         findViewById(R.id.start).setOnClickListener(listener);
-        findViewById(R.id.stop).setOnClickListener(listener);
 
         }
 
@@ -116,22 +106,7 @@ public class MainActivity extends Activity{
         @Override
         public void onServiceDisconnected(ComponentName className){
 
-            Button btn = (Button) findViewById(R.id.stop);
-
-            btn.setOnClickListener(new View.OnClickListener() {
-
-                @Override
-                public void onClick(View v) {
-                    Log.d(TAG, "service stopped: " + "service stopped");
-                    Intent intent = new Intent(MainActivity.this, mobiHocService.class);
-                    stopService(intent);
-
-                }
-
-            });
-
-
-        }
+            }
 
     };
 }
