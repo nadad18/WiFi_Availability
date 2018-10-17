@@ -29,6 +29,23 @@ List<ScanResult> availableNetworks = new ArrayList<ScanResult>();
 String SERVER_URL = "http://";
 String urldownload = "http://";
 ```  
+
+### Writing into a file function
+```java
+private void printInfo(File file, String Info, String trial) {
+        BufferedWriter fos = null;
+        try {
+            fos = new BufferedWriter(new FileWriter(file, true));
+            fos.write(Info);
+            fos.flush();
+            fos.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+    }
+```    
+    
 ### Output
 
 
