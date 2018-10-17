@@ -2,10 +2,10 @@
 An application to write the attributes of Wi-Fi access points into a local file. In addition, it download and uploaded an 8 MByte file to an internet server to calculate the upload and download speeds.
 
 ### Scanning for WiFi Networks
-You can easily perform a WiFi Network scan like so:
-
+You can perform a WiFi Network scan like so:
+```
 List<ScanResult> availableNetworks = new ArrayList<ScanResult>();
-                availableNetworks = activity.wm.getScanResults();
+```                availableNetworks = activity.wm.getScanResults();
   
   
 ### Output
