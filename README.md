@@ -3,10 +3,10 @@ An application to write the attributes of Wi-Fi access points into a local file.
 
 ### Scanning for WiFi Networks
 You can perform a WiFi Network scan like so:
-```
+```java
 List<ScanResult> availableNetworks = new ArrayList<ScanResult>();
                  availableNetworks = activity.wm.getScanResults();
-```    
+```  
   
 ### Output
 
