@@ -16,7 +16,9 @@ There are three main files:
 1/ All_data : contains the raw data from the ScanResult Android
 
 2/ Individual_AP_Tributes : contains refined data : 
+
 Data,longitude,latitude,BSSID,RSSI,BSSID(first 10 characteristics),SSID,capabilities,frequency,timestamp,isPasspointNetwork,channelWidth,centerFreq0,centerFreq1, is80211mcResponder
 
-3/ Extra_Information : contains information about the available networks
+3/ Extra_Information : contains information about the available networks:
+
 Data,longitude,latitude,Number of total Wi-Fi networks,Number of open networks,max RSSI level,average RSSI level,min RSSU level,connected RSSI level,frequency,bandwidth,Mode,utilization,BSSID,SSID,download speed,upload speed
