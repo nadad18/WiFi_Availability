@@ -24,7 +24,11 @@ You can perform a WiFi Network scan like so:
 List<ScanResult> availableNetworks = new ArrayList<ScanResult>();
                  availableNetworks = activity.wm.getScanResults();
 ```  
-  
+### Provide links for the upload and download links
+```java
+String SERVER_URL = "http://";
+String urldownload = "http://";
+```  
 ### Output
 
 
