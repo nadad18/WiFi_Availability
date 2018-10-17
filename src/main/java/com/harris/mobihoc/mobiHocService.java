@@ -56,9 +56,9 @@ public class mobiHocService extends Service {
     //// Create Files to write the data //////////////////
 
     File folder = Environment.getExternalStoragePublicDirectory(DIRECTORY_DCIM);
-    File Wi_Fi = new File(folder, "ScanResult2.txt");
-    File wifi_scan = new File(folder, "Individual_AP_Tributes2.txt");
-    File level_GPS = new File(folder, "Extra_Information2.txt");
+    File Wi_Fi = new File(folder, "All_data.txt");
+    File wifi_scan = new File(folder, "Individual_AP_Tributes.txt");
+    File level_GPS = new File(folder, "Extra_Information.txt");
 
     private class LocationListener implements android.location.LocationListener
     {
