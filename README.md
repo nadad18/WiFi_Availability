@@ -8,6 +8,15 @@ lets see some code examples.
     File folder = Environment.getExternalStoragePublicDirectory(DIRECTORY_DCIM);
     File Wi_Fi = new File(folder, "All_data.txt");
  ```     
+ ### Give permission to access location and storage
+ ```java
+ int PERMISSION_ALL = 1;
+                    String[] PERMISSIONS = {Manifest.permission.WRITE_EXTERNAL_STORAGE, Manifest.permission.READ_EXTERNAL_STORAGE, Manifest.permission.ACCESS_FINE_LOCATION, Manifest.permission.ACCESS_COARSE_LOCATION};
+
+                    if (!hasPermissions(activity, PERMISSIONS)) {
+                        ActivityCompat.requestPermissions(activity, PERMISSIONS, PERMISSION_ALL);
+                    }
+```
 
 ### Scanning for WiFi Networks
 You can perform a WiFi Network scan like so:
